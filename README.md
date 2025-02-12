@@ -12,7 +12,7 @@ This project features a **Power BI dashboard** that provides insights into hotel
 
 ## Files
 - `Hotel Bookings Dashboard.pbix` - Main Power BI dashboard.
-- 
+  
 ## How to Use
 1. Open `Hotel Bookings Dashboard.pbix` in Power BI.
 2. Use slicers to filter by date.
